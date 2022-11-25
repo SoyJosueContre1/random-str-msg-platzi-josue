@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-platzi-josue",
+  "version": "1.0.0",
+  "description": "Random String Message de Plazti para el Curso de NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoyJosueContre1/random-str-msg-platzi-josue.git"
+  },
+  "keywords": [],
+  "author": "Josue Contreras <estavesyano@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SoyJosueContre1/random-str-msg-platzi-josue/issues"
+  },
+  "homepage": "https://github.com/SoyJosueContre1/random-str-msg-platzi-josue#readme",
+  "bin": {
+    "random-str-msg-platzi-josue": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
